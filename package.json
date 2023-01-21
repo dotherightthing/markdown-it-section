@@ -1,0 +1,19 @@
+{
+  "name": "markdown-it-vuepress-section",
+  "version": "1.0.0",
+  "description": "A markdown-it plugin for subdividing content into sections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotherightthing/markdown-it-vuepress-section.git"
+  },
+  "author": "dev@dotherightthing.co.nz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotherightthing/markdown-it-vuepress-section/issues"
+  },
+  "homepage": "https://github.com/dotherightthing/markdown-it-vuepress-section#readme"
+}
