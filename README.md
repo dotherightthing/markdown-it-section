@@ -56,6 +56,7 @@ module.exports = {
 
 <script>
 export default {
+  name: 'ContentSection',
   props: {
     headingContent: String
   }
